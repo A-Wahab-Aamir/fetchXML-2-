@@ -16,4 +16,7 @@ Link: https://datatables.net/
 ![image](https://github.com/A-Wahab-Aamir/fetchXML-2-/assets/83786802/1c9b3aa3-36ba-4b36-ac05-bdc631c7aea4)
 ![image](https://github.com/A-Wahab-Aamir/fetchXML-2-/assets/83786802/d377ab44-c5d8-463f-a015-20e714e8800c)
 
+## video tutorial
+https://www.youtube.com/watch?v=9FuQhSEL1sM&ab_channel=CodePlusPoint
+
 
